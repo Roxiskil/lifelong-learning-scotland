@@ -36,7 +36,7 @@ The analysis focuses on:
 ## Visualisations
 
 ### 1) Declining lifelong learning provision (FE + HE)
-![Declining provision](visuals/decline_fe_he.png)
+![Declining provision](visuals/declining_lifelong_learning_provision_(FE + HE).png)
 
 ### 2) Changing access to learning (subject mix shifts)
 ![Subject mix shift](visuals/subject_shift.png)
