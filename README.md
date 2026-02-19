@@ -43,4 +43,4 @@ The analysis focuses on:
 ---
 
 ## Author
-Roksolana Stefanyshyn + LinkedIn [(https://www.linkedin.com/notifications/?filter=all)]
+Roksolana Stefanyshyn: [(https://www.linkedin.com/notifications/?filter=all)]
