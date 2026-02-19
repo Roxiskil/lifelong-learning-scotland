@@ -25,16 +25,23 @@ The analysis focuses on:
 - Subject mix shifted: growth in **construction, health, engineering, languages**; decline in **business, IT, tourism, personal services**.
 - Delivery patterns suggest **reduced flexibility** (fewer late-entry opportunities).
 
-## Visualisations
+## Visuals
 
-### 1) Declining lifelong learning provision (FE + HE)
-![Declining provision](visuals/declining_lifelong_learning_provision_(FE + HE).png)
+### Declining lifelong learning provision (FE + HE)
+![Declining lifelong learning provision](visuals/declining_lifelong_learning_provision_(FE%20+%20HE).png)
 
-### 2) Changing access to learning (subject mix shifts)
-![Subject mix shift](visuals/subject_shift.png)
+### Flexibility (cumulative delivery)
+![Flexibility cumulative](visuals/flexibility_cumulative.png)
 
-### 3) Reduced flexibility across the academic year
-![Reduced flexibility](visuals/flexibility_cumulative.png)
+### FTE by mode (FE)
+![FTE by mode FE](visuals/fte_by_mode_fe.png)
+
+### HE decline
+![HE decline](visuals/he_decline.png)
+
+### Subject shift
+![Subject shift](visuals/subject_shift.png)
+
 
 
 ## Source report
